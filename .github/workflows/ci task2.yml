@@ -32,4 +32,5 @@ jobs:
       - name: Run project code
         run: |
            echo "CI script executed successfully"
+           python3 hello.py
           
