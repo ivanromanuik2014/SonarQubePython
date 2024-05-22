@@ -1,5 +1,7 @@
 # Flask Product API
 
+[CI Workflow](https://github.com/devops-fundamentals-templates/dofd-05-python-ivanromanuik2014/actions/workflows/ci.yml) 
+
 This is a simple Flask API for managing product data. The API allows you to perform basic CRUD (Create, Read, Update, Delete) operations on products.
 
 ## Setup
